@@ -1,5 +1,5 @@
 
-import reactLogo from '../assets/react.svg'
+import reactLogo from '../assets/dragon-ball-svgrepo-com.svg'
 import viteLogo from '/vite.svg'
 
 import './Header.css'
